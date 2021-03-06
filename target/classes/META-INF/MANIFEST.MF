@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: wangzhenjiang
+Build-Jdk: 15.0.1
+Implementation-Title: ribbon-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: cloud
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/ribbon-demo
+Created-By: Maven Integration for Eclipse
+
